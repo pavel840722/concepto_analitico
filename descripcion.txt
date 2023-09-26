@@ -1,0 +1,16 @@
+El cliente es una empresa que
+tiene una v16 y quiere ampliar su analítica añadiendo a cada apunte
+analítico un nuevo campo como concepto analítico.
+
+El cliente podrá mantener (crear, modificar, archivar) sus propios
+conceptos aunque por defecto, habrá tres conceptos analíticos:
+[MO] Mano de Obra
+[MT] Material
+[GA] Gastos
+
+Cuando se confirma un presupuesto de compra o de venta, el concepto
+analítico introducido en la línea se tiene que llevar a la línea de factura.
+
+Al publicar la factura, cada línea de la factura crea un apunte
+analítico, entonces, deberemos nosotros añadir el concepto analítico del
+apunte contable al apunte analítico.
