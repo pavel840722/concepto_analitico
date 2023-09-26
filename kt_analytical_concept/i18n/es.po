@@ -1,0 +1,93 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* kt_analytical_concept
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0+e-20221117\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-29 00:15+0000\n"
+"PO-Revision-Date: 2023-08-29 00:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: kt_analytical_concept
+#: model:ir.actions.act_window,name:kt_analytical_concept.analytical_concept_action
+#: model:ir.model.fields,field_description:kt_analytical_concept.field_account_move_line__analytical_concept_id
+#: model:ir.model.fields,field_description:kt_analytical_concept.field_purchase_order_line__analytical_concept_id
+#: model:ir.model.fields,field_description:kt_analytical_concept.field_sale_order_line__analytical_concept_id
+#: model:ir.ui.menu,name:kt_analytical_concept.menu_action_analytical_concept
+#: model_terms:ir.ui.view,arch_db:kt_analytical_concept.analytical_concept_view_form
+#: model_terms:ir.ui.view,arch_db:kt_analytical_concept.analytical_concept_view_search
+#: model_terms:ir.ui.view,arch_db:kt_analytical_concept.analytical_concept_view_tree
+msgid "Analytical concept"
+msgstr "Concepto analítico"
+
+#. module: kt_analytical_concept
+#: model:ir.model.fields,field_description:kt_analytical_concept.field_analytical_concept__code
+msgid "Code"
+msgstr "Código"
+
+#. module: kt_analytical_concept
+#: model:ir.model.fields,field_description:kt_analytical_concept.field_analytical_concept__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: kt_analytical_concept
+#: model:ir.model.fields,field_description:kt_analytical_concept.field_analytical_concept__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: kt_analytical_concept
+#: model:ir.model.fields,field_description:kt_analytical_concept.field_analytical_concept__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: kt_analytical_concept
+#: model:ir.model.fields,field_description:kt_analytical_concept.field_analytical_concept__id
+msgid "ID"
+msgstr ""
+
+#. module: kt_analytical_concept
+#: model:ir.model,name:kt_analytical_concept.model_account_move_line
+msgid "Journal Item"
+msgstr ""
+
+#. module: kt_analytical_concept
+#: model:ir.model.fields,field_description:kt_analytical_concept.field_analytical_concept____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: kt_analytical_concept
+#: model:ir.model.fields,field_description:kt_analytical_concept.field_analytical_concept__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: kt_analytical_concept
+#: model:ir.model.fields,field_description:kt_analytical_concept.field_analytical_concept__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: kt_analytical_concept
+#: model:ir.model.fields,field_description:kt_analytical_concept.field_analytical_concept__name
+msgid "Name"
+msgstr "Nombre"
+
+#. module: kt_analytical_concept
+#: model:ir.model,name:kt_analytical_concept.model_purchase_order_line
+msgid "Purchase Order Line"
+msgstr "Línea de pedido de compra"
+
+#. module: kt_analytical_concept
+#: model:ir.model,name:kt_analytical_concept.model_sale_order_line
+msgid "Sales Order Line"
+msgstr ""
+
+#. module: kt_analytical_concept
+#: model:ir.model,name:kt_analytical_concept.model_analytical_concept
+msgid "analytical.concept"
+msgstr ""
